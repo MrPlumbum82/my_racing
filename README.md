@@ -1,5 +1,7 @@
 # My Racing
 
+![screenshot](https://cloud.githubusercontent.com/assets/11234396/18818325/cfe118fe-838f-11e6-8f75-32196fefef1e.png)
+
 This is a racing game written in OpenGL. More needs to be added, additional information about the TODO below.
 
 ##TODO

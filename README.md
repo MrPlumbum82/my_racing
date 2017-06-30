@@ -1,20 +1,11 @@
 # My Racing
+A racing game written in OpenGL.
 
 ![screenshot](https://cloud.githubusercontent.com/assets/11234396/18818325/cfe118fe-838f-11e6-8f75-32196fefef1e.png)
 
-This is a racing game written in OpenGL. More needs to be added, additional information about the TODO below.
+## How to run:
 
-##TODO
-  * Implement a menu system
-  * Add music/sound effects to the menus and game
-  * Implement better AI
-  * Implement environment collisions
-  * Add more car models
-  * Add more racing levels
-
-##How to run:
-
-###Linux:
+### Linux:
  1. Install opengl, glut and soil libraries
  ```bash
   sudo apt-get install freeglut3-dev 
@@ -37,3 +28,11 @@ This is a racing game written in OpenGL. More needs to be added, additional info
  ```bash
   ./a.out
  ```
+
+## TODO
+  * Implement a menu system
+  * Add music/sound effects to the menus and game
+  * Implement better AI
+  * Implement environment collisions
+  * Add more car models
+  * Add more racing levels
